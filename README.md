@@ -1,2 +1,2 @@
 # xstation-issues
-Issue reports for the xstation
+Issues and support for the xstation optical drive emulator
