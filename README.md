@@ -17,3 +17,14 @@ If the issue persists:
 - try a different SD card to see whether the problem is with the card or the installation
 - double check the installation, make sure that the pads below the lifted pins do not make contact
 - The lid open/close switch can be worn and barely make continous contact. Try wedging in something that pushes it down properly.   
+
+## xStation can't reset the console, full boot not working, after updates no automatic reset
+The most likely cause for reset signal issues is that the QSB reset point doesn't connect well (or at all) to the PSX mainboard.   
+
+![QSB Reset point](https://i.imgur.com/xuve2ri.png)
+
+An alternative test point exists near the expansion port.   
+
+![Reset alternative](https://i.imgur.com/QgGQPQ8.png)
+
+It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
