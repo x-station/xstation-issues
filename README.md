@@ -29,7 +29,12 @@ An alternative test point exists near the expansion port.
 
 It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
 
-## all test points for PU-18   
+## All test points for PU-18   
+Thanks to jft and ryanm101, we now have 2 different test point images. Use them to verify that each signal is soldered down properly.
 
-![All test points](https://user-images.githubusercontent.com/5185337/100875797-6641d680-349e-11eb-85f8-eb8d9cd4f155.jpg)   
+Variant 1:
+![variant1](https://user-images.githubusercontent.com/5185337/100875797-6641d680-349e-11eb-85f8-eb8d9cd4f155.jpg)   
+
+Variant 2:
+![variant2](https://i.imgur.com/doQvJGf.jpeg)   
 
