@@ -12,7 +12,7 @@
 The xStation needs a well performing SD card that can deliver CD data reliably in under 6.7ms.   
 To help the SD card, format it using the official formatter tool. It really helps with access times:   
 https://www.sdcard.org/downloads/formatter/   
-The tool will automatically choose exFAT and set correct alignments and cluster sized.   
+The tool will automatically choose exFAT (for larger cards) and set correct alignments and cluster sizes.   
 If the issue persists:
 - try a different SD card to see whether the problem is with the card or the installation
 - double check the installation, make sure that the pads below the lifted pins do not make contact
@@ -28,3 +28,8 @@ An alternative test point exists near the expansion port.
 ![Reset alternative](https://i.imgur.com/QgGQPQ8.png)
 
 It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
+
+## all test points for PU-18   
+
+![All test points](https://user-images.githubusercontent.com/5185337/100875797-6641d680-349e-11eb-85f8-eb8d9cd4f155.jpg)   
+
