@@ -29,7 +29,7 @@ An alternative test point exists near the expansion port.
 
 It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
 
-## All test points for PU-18   
+## Test points for PU-18   
 Thanks to jft and ryanm101, we now have 2 different test point images. Use them to verify that each signal is soldered down properly.
 
 Variant 1:
@@ -38,3 +38,7 @@ Variant 1:
 Variant 2:
 ![variant2](https://i.imgur.com/doQvJGf.jpeg)   
 
+
+## Test points for LATE PU-8 (-21 and later)
+
+![Late PU-8](https://i.imgur.com/gTHg3ca.jpeg)   
