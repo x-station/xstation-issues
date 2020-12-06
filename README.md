@@ -40,5 +40,6 @@ Variant 2:
 
 
 ## Test points for LATE PU-8 (-21 and later)
+This diagram was made by mmmonkey. 
 
 ![Late PU-8](https://i.imgur.com/gTHg3ca.jpeg)   
