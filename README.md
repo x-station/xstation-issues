@@ -29,17 +29,11 @@ An alternative test point exists near the expansion port.
 
 It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
 
-## Test points for PU-18   
-Thanks to the modding community, we now have different test point images. You can use them to verify that each signal is soldered down properly.
+## Test points
+Thanks to the modding community, we now have test point images. You can use them to verify that each signal is soldered down properly.
 
-Variant 1:
-![variant1](https://mmmonkey.co.uk/wp-content/uploads/2020/12/xStation-550X-QSB-map.png)   
+## PU-18   
+![PU-18](https://mmmonkey.co.uk/wp-content/uploads/2020/12/xStation-550X-QSB-map.png)   
 
-Variant 2:
-![variant2](https://i.imgur.com/doQvJGf.jpeg)   
-
-
-## Test points for LATE PU-8 (-21 and later)
-This diagram was made by mmmonkey. 
-
+## LATE PU-8 (-21 and later)   
 ![Late PU-8](https://i.imgur.com/gTHg3ca.jpeg)   
