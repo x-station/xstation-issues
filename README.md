@@ -30,7 +30,9 @@ An alternative test point exists near the expansion port.
 It is okay to solder an additional wire from the QSB to that reset point to fix the issue.
 
 ## Test points
-Thanks to the modding community, we now have test point images. You can use them to verify that each signal is soldered down properly.
+Thanks to the modding community, we now have test point images.   
+You can use them to verify that each signal is soldered down properly.   
+The currently most comprehensive images have been created by [mmmonkey](https://mmmonkey.co.uk/xstation-sony-playstation-install-notes-and-pinout/). Thanks!   
 
 ## PU-18   
 ![PU-18](https://mmmonkey.co.uk/wp-content/uploads/2020/12/xStation-550X-QSB-map.png)   
